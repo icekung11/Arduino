@@ -1,6 +1,6 @@
 # IoT & Arduino Projects Collection 🌟
 
-คอลเลกชันโปรเจกต์ Arduino/ESP8266/ESP32 สำหรับงาน IoT และงานควบคุมอัตโนมัติเบื้องต้น พัฒนาด้วย Arduino IDE
+คอลเลกชันโปรเจกต์ Arduino/ESP8266 สำหรับงาน IoT และงานควบคุมอัตโนมัติเบื้องต้น พัฒนาด้วย Arduino IDE
 
 ---
 
