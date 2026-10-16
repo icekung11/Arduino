@@ -98,7 +98,7 @@ RTClib                      (Adafruit)
 
 ## 👤 Author
 
-**DHt11_nr**  
+**Kittithat Doboua**  
 Simple Project Collection — Created 9 months ago
 
 ---
